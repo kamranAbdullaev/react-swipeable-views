@@ -70,7 +70,7 @@ module.exports = {
 
     generateMap(findPages());
 
-    return map;
+    return map
   },
   onDemandEntries: {
     // Period (in ms) where the server will keep pages in the buffer
